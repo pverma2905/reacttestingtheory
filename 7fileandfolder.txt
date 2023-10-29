@@ -1,0 +1,8 @@
+1)files=>
+App.test.js
+App.test.jsx
+App.spec.js
+App.spec.jsx
+
+2)folder
+__tests__

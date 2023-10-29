@@ -1,0 +1,8 @@
+before:- it run before the test cases
+after:- it run after the test cases
+
+beforeEach:- it run before each test cases(run multiple time)
+afterEach:- it run after each test cases(run multiple time)
+
+beforeAll:- it run once before test cases run (run once)
+afterAll:- it run once after test cases run (run once)

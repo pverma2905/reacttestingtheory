@@ -1,0 +1,25 @@
+1)what is testing?
+=>It is a process to find error in a software development before it is launched
+=>validating functioning and feature
+
+2)type of testing?
+=>manual
+=>automated
+
+3)Testing by developers?
+=>unit testing   ex- jest, react testing library
+=>integrated testing
+=>e2e testing  ex- cypress
+
+4)React testing tools?
+=> jest
+=>react testing library
+
+5)To run test?
+npm run test
+
+6)suites?
+it is a file
+
+7)test?
+how many test

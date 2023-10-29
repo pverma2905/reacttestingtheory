@@ -1,0 +1,5 @@
+snapshot testing:- 
+=>code ki copy karna dusri file me as a backup before deployment
+=>on deployment time is useful 
+=>development time is not useful
+

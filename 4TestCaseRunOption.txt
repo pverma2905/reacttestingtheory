@@ -1,0 +1,6 @@
+1)npm run test
+2)npm run test sum
+w=>more
+p=>file
+a=>all
+t=>test case

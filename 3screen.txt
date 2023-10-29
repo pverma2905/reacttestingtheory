@@ -1,0 +1,5 @@
+1)screen.getByText("ccccccccc");
+2)screen.getByTitle("AI generated img")
+3)screen.getByAltText("ccdddd")
+4)screen.getByRole("textbox");
+5)screen.getByPlaceholderText("Enter User Name")
